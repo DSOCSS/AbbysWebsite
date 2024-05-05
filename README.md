@@ -2,7 +2,7 @@
 
 This is the code for an example HTML/CSS website programmed by [Arthur Zarins](https://arthurzarins.com) to teach web development at [Dartmouth's Society of Computer Science Students](https://dsocss.github.io/website).
 
-To view this website online, visit it's link at [(link not yet created)](https://arthurzarins.com).
+To view this website online, visit it's link at [(https://dsocss.github.io/AbbysWebsite/)](https://dsocss.github.io/AbbysWebsite/).
 
 This template is open for anyone to reuse, with the exception of the files in the `images` folder. Please use different photos on your own website unless you get permission otherwise.
 
